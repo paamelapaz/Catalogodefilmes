@@ -14,5 +14,5 @@ TELA DE CADASTRO DOS FILMES
 
 TELA DE CADASTRO DAS SÉRIES
 
-
+![image](https://github.com/paamelapaz/Catalogodefilmes/assets/104845528/c5ca66dd-a9c8-4404-98d9-9f02bce51722)
 
